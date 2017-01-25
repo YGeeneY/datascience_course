@@ -1,5 +1,6 @@
 **cumsum**
-didnt show to much a lot of noise to much data to see through noise
+didnt show to much a lot of noise to much data to see through noise **pretty sure I've build plot wrong**
+
 
 **comments_articles_daily** actually you can see a peak at 10am and slight 8pm - 1am
 
